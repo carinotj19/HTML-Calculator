@@ -19,15 +19,15 @@ A basic calculator built with HTML, CSS, and JavaScript.
 
 1. **Clone the repository:**
 
-   """
+   ```bash
    git clone https://github.com/carinotj19/HTML-Calculator.git
-   """
+   ```
 
 2. **Navigate to the project directory:**
 
-   """
+   ```bash
    cd HTML-Calculator
-   """
+   ```
 
 3. **Open the application:**
 
@@ -36,10 +36,6 @@ A basic calculator built with HTML, CSS, and JavaScript.
 ## 🛠️ Usage
 
 Use the calculator interface to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
-
-## 📷 Screenshots
-
-*Include screenshots of the calculator interface here.*
 
 ## 📄 License
 
